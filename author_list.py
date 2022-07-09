@@ -19,7 +19,7 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan 
            'M.-A. Bizouard': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"],
            'M. Blazek': ["Instituto de Astrof\\'isica de Andaluc\\'ia (IAA-CSIC), Glorieta de la Astronom\\'ia s/n, 18008 Granada, Spain"],
            'O. Burkhonov': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'],
-           'E. Burns': ['Department of Physics & Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA'],
+           'E. Burns': ['Department of Physics \& Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA'],
            'S. Caudill': ['Institute for Gravitational and Subatomic Physics (GRASP), Utrecht University, Princetonplein 1, 3584 CC, Utrecht, The Netherlands', 'Nikhef, Science Park 105, 1098 XG, Amsterdam, The Netherlands'],
            'N. Christensen': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"],
            'F. Colas': ["Astronomie et Systèmes Dynamiques, Institut de Mécanique Céleste et de Calcul des Éphémérides CNRS UMR 8028, Observatoire de Paris, Université PSL, Sorbonne Université, 77 Avenue Denfert-Rochereau, 75014 Paris, France"],
