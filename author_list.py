@@ -3,7 +3,7 @@ import os
 import sys
 
 authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'],
-           'V. Aivazyan': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia; Ilia State University, Kakutsa Cholokashvili ave 3/5, Tbilisi 0162, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'],
+           'V. Aivazyan': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia; Ilia State University, Kakutsa Cholokashvili ave 3/5, Tbilisi 0162, Georgia'; 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'],
            'S. Alishov': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'], 
            'M. Almualla': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE'],
            'C. Andrade': ["School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA"],
@@ -19,7 +19,7 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan 
            'M.-A. Bizouard': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"],
            'M. Blazek': ["Instituto de Astrof\\'isica de Andaluc\\'ia (IAA-CSIC), Glorieta de la Astronom\\'ia s/n, 18008 Granada, Spain"],
            'O. Burkhonov': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'],
-           'E. Burns': ['Department of Physics & Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA'],
+           'E. Burns': ['Department of Physics \& Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA'],
            'S. Caudill': ['Institute for Gravitational and Subatomic Physics (GRASP), Utrecht University, Princetonplein 1, 3584 CC, Utrecht, The Netherlands', 'Nikhef, Science Park 105, 1098 XG, Amsterdam, The Netherlands'],
            'N. Christensen': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"],
            'F. Colas': ["Astronomie et Systèmes Dynamiques, Institut de Mécanique Céleste et de Calcul des Éphémérides CNRS UMR 8028, Observatoire de Paris, Université PSL, Sorbonne Université, 77 Avenue Denfert-Rochereau, 75014 Paris, France"],
@@ -55,7 +55,7 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan 
            'G. Kapanadze': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia; Ilia State University, Kakutsa Cholokashvili ave 3/5, Tbilisi 0162, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'],
            'S. Karpov': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'],
            'R. W. Kiendrebeogo': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France", "Laboratoire de Physique et de Chimie de l’Environnement, Université Joseph KI-ZERBO, Ouagadougou, Burkina Faso"],
-           'A. Klotz': ["IRAP, Universit\\'e de Toulouse, CNRS, UPS, 14 Avenue Edouard Belin, F-31400 Toulouse, France", "Universit\\'e Paul Sabatier Toulouse III, Universit\'e de Toulouse, 118 route de Narbonne, 31400 Toulouse, France"],
+           'A. Klotz': ["IRAP, Universit\\'e de Toulouse, CNRS, UPS, 14 Avenue Edouard Belin, F-31400 Toulouse, France", "Universit\\'e Paul Sabatier Toulouse III, Universit\\'e de Toulouse, 118 route de Narbonne, 31400 Toulouse, France"],
            'N. Kochiashvili': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia; Ilia State University, Kakutsa Cholokashvili ave 3/5, Tbilisi 0162, Georgia'],
            'A. Kaeouach': ['Observatory of Oukaimden,  Morocco'],
            'J.-P. Kneib': ['Laboratoire d’astrophysique (LASTRO), Ecole Polytechnique F ́ed ́erale de Lausanne (EPFL), Observatoire de Sauverny, CH-1290 Versoix, Switzerland'],
